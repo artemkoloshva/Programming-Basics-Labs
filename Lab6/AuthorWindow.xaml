@@ -1,0 +1,33 @@
+﻿<Window x:Class="Lab6.AuthorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab6"
+        mc:Ignorable="d"
+        Title="memeLab" 
+        Height="600" Width="650"
+        MinHeight="600" MinWidth="650"
+        WindowStartupLocation="CenterScreen" 
+        Background="#1A1A1D">
+    <Grid>
+        <Image 
+            HorizontalAlignment="Stretch" 
+            Margin="0,15,0,75" 
+            VerticalAlignment="Top" 
+            Source="/Images/ficus.jpg"/>
+        <Button 
+            Content="Не знал что фикусы кодят" 
+            Click="BackButton_Click"
+            Margin="0,0,0,7"
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Bottom" 
+            Height="60" 
+            Width="494"
+            FontFamily="Comic Sans MS"
+            FontSize="30"
+            Foreground="White" 
+            BorderBrush="#00111111"
+            Background="#FF405940"/>
+    </Grid>
+</Window>

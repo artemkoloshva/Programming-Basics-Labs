@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E513DE81-0520-41F0-9BA1-3713865F9D6B}|Lab6\\Lab6.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\lab6\\tetriswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E513DE81-0520-41F0-9BA1-3713865F9D6B}|Lab6\\Lab6.csproj|solutionrelative:lab6\\tetriswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E513DE81-0520-41F0-9BA1-3713865F9D6B}|Lab6\\Lab6.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u043E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\lab6\\lab6\\comparingarraysortswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E513DE81-0520-41F0-9BA1-3713865F9D6B}|Lab6\\Lab6.csproj|solutionrelative:lab6\\comparingarraysortswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E513DE81-0520-41F0-9BA1-3713865F9D6B}|Lab6\\Lab6.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\lab6\\exitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E513DE81-0520-41F0-9BA1-3713865F9D6B}|Lab6\\Lab6.csproj|solutionrelative:lab6\\exitwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E513DE81-0520-41F0-9BA1-3713865F9D6B}|Lab6\\Lab6.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\lab6\\guesstheanswerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E513DE81-0520-41F0-9BA1-3713865F9D6B}|Lab6\\Lab6.csproj|solutionrelative:lab6\\guesstheanswerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E513DE81-0520-41F0-9BA1-3713865F9D6B}|Lab6\\Lab6.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\lab6\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E513DE81-0520-41F0-9BA1-3713865F9D6B}|Lab6\\Lab6.csproj|solutionrelative:lab6\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E513DE81-0520-41F0-9BA1-3713865F9D6B}|Lab6\\Lab6.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\lab6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E513DE81-0520-41F0-9BA1-3713865F9D6B}|Lab6\\Lab6.csproj|solutionrelative:lab6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 250,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TetrisWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\Lab6\\TetrisWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab6\\TetrisWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\Lab6\\TetrisWindow.xaml.cs",
+              "RelativeToolTip": "Lab6\\TetrisWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAANwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:13:53.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuessTheAnswerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\Lab6\\GuessTheAnswerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab6\\GuessTheAnswerWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\Lab6\\GuessTheAnswerWindow.xaml.cs",
+              "RelativeToolTip": "Lab6\\GuessTheAnswerWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:13:30.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComparingArraySortsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\Lab6\\ComparingArraySortsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab6\\ComparingArraySortsWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\Lab6\\ComparingArraySortsWindow.xaml.cs",
+              "RelativeToolTip": "Lab6\\ComparingArraySortsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:13:12.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExitWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\Lab6\\ExitWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab6\\ExitWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\Lab6\\ExitWindow.xaml.cs",
+              "RelativeToolTip": "Lab6\\ExitWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:11:23.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\Lab6\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "Lab6\\Menu.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\Lab6\\Menu.xaml.cs",
+              "RelativeToolTip": "Lab6\\Menu.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:10:01.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\Lab6\\App.xaml",
+              "RelativeDocumentMoniker": "Lab6\\App.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0438\u0439 \u0443\u043D\u0435\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\\u041E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\Lab6\\Lab6\\App.xaml",
+              "RelativeToolTip": "Lab6\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T13:28:18.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
