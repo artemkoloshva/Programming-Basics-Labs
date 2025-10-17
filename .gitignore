@@ -1,0 +1,76 @@
+## Системные файлы
+*.DS_Store
+Thumbs.db
+
+## Папки Visual Studio
+.vs/
+.vscode/
+
+## Сборка и временные файлы
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+TestResults/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Файлы сборки
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+## Пакеты NuGet
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+*.nuspec
+
+## Конфигурационные файлы среды
+*.local.json
+appsettings.*.json
+*.launchSettings.json
+
+## Rider / ReSharper / JetBrains
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+## Publish и временные файлы
+publish/
+dist/
+tmp/
+temp/
+
+## Файлы тестов
+*.coverage
+*.coveragexml
+
+## Файлы Windows
+desktop.ini
+
+## Node (если есть фронтенд)
+node_modules/
+npm-debug.log*
+
+## Кэш
+*.obj
+*.tmp
+*.bak
+*.swp
+
+## User secrets
+secrets.json
+
+## Docker
+*.pid
+docker-compose.override.yml
