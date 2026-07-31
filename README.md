@@ -1,10 +1,11 @@
 # Programming Basics Labs
 
-![C#](https://img.shields.io/badge/C%2B%2B-17-blue.svg)
-![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple.svg)
-![Course](https://img.shields.io/badge/Course-1st%20semester-success.svg)
-![University](https://img.shields.io/badge/Samara%20University-2024-orange.svg)
-![License](https://img.shields.io/badge/License-Educational-lightgrey.svg)
+![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/Platform-.NET-512BD4?logo=dotnet&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
+![Course](https://img.shields.io/badge/Course-1st%20semester-success)
+![University](https://img.shields.io/badge/Samara%20University-2024-orange)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
 Лабораторные работы по дисциплине **«Основы программирования»**, 1 курс,
 направление «Информационные системы и технологии», Самарский национальный
